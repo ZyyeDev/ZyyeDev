@@ -13,6 +13,6 @@ I'm a selftaught developer that does random stuff.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyyedev&show_icons=true&theme=tokyonight&hide=issues)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ZyyeDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=zyyedev&show_icons=true&theme=tokyonight&layout=compact)
+![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyyeDev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
