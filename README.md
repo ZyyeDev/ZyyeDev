@@ -14,6 +14,4 @@ I'm a selftaught developer that does random stuff.
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ZyyeDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyyeDev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![GitHub Card](https://githubcard.com/g/jSOqsraI.svg)
