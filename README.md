@@ -15,4 +15,5 @@ I'm a selftaught developer that does random stuff.
 ---
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ZyyeDev&show_icons=true&theme=radical)
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZyyeDev&layout=compact&theme=radical)
